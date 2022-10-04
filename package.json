@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nghinguyen157/Nodejs-practices-AIA.git"
+    "url": "git+https://github.com/nghinguyen157/Math-Modules-Practices.git"
   },
   "keywords": [
     "math-module-nnguyen242-1"
@@ -17,7 +17,7 @@
   "author": "nnguyen242",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nghinguyen157/Nodejs-practices-AIA/issues"
+    "url": "https://github.com/nghinguyen157/Math-Modules-Practices/issues"
   },
-  "homepage": "https://github.com/nghinguyen157/Nodejs-practices-AIA#readme"
+  "homepage": "https://github.com/nghinguyen157/Math-Modules-Practices#readme"
 }
